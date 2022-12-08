@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+   <modelVersion>4.0.0</modelVersion>
+   <parent>
+      <groupId>org.apache.struts</groupId>
+      <artifactId>struts-master</artifactId>
+      <version>4</version>
+   </parent>
+   <groupId>org.apache.struts</groupId>
+   <artifactId>struts-archetype-blank</artifactId>
+   <version>1.3.5-SNAPSHOT</version>
+   <packaging>jar</packaging>
+   <name>Struts Archetypes - Blank</name>
+
+    <scm>
+       <connection>scm:svn:http://svn.apache.org/repos/asf/struts/maven/trunk/struts-archetype-blank/</connection>
+       <developerConnection>scm:svn:https://svn.apache.org/repos/asf/struts/maven/trunk/struts-archetype-blank/</developerConnection>
+       <url>http://svn.apache.org/viewcvs.cgi/struts/maven/trunk/struts-archetype-blank/</url>
+    </scm>
+
+</project>
